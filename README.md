@@ -19,7 +19,7 @@ Insane
   <img src="All-Perfect/IN/1763295694686.jpg" alt="13" style="width: 48%; height: auto; border-radius: 8px;">
   <img src="All-Perfect/IN/1763295694734.jpg" alt="14" style="width: 48%; height: auto; border-radius: 8px;">
 </div>
-
+ 
 # Full Combo
 Another
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -27,7 +27,7 @@ Another
   <img src="Full-Combo\AT\1763295694032.jpg" alt="2" style="width: 48%; height: auto; border-radius: 8px;">
   <img src="Full-Combo\AT\1763295694834.jpg" alt="3" style="width: 48%; height: auto; border-radius: 8px;">
 </div>
-
+ 
 Insane
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="Full-Combo\IN\1763295693104.jpg" alt="1" style="width: 48%; height: auto; border-radius: 8px;">
@@ -57,7 +57,7 @@ Insane
   <img src="Full-Combo\IN\1763295694927.jpg" alt="25" style="width: 48%; height: auto; border-radius: 8px;">
   <img src="Full-Combo\IN\1763295694968.jpg" alt="26" style="width: 48%; height: auto; border-radius: 8px;">
 </div>
-
+ 
 # Honorable Mention
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="Honorable-Mention\1763295693567.jpg" alt="1" style="width: 48%; height: auto; border-radius: 8px;">
